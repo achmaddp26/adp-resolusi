@@ -4,3 +4,5 @@ Rencana Freelancer
 -belajar perdalam skill css
 -belajar figma
 -fundamental algoritma
+-belajar react
+-react redux
