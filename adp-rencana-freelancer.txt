@@ -3,3 +3,4 @@ Rencana Freelancer
 -buat preview yang menarik
 -belajar perdalam skill css
 -belajar figma
+-fundamental algoritma
