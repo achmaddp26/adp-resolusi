@@ -6,3 +6,4 @@ Rencana Freelancer
 -fundamental algoritma
 -belajar view flutter
 -flutter backend
+
