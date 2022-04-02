@@ -5,3 +5,4 @@ Rencana Freelancer
 -belajar figma
 -fundamental algoritma
 -belajar view flutter
+-flutter backend
